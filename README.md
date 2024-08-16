@@ -3,3 +3,5 @@
 ---
 
 此網站為我在直播班中第二週切版作業，並在第七週切版作業中，增加視差滾動效果。
+
+[GitHub Pages] (https://jhoujhou.github.io/twotask/)
